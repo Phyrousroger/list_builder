@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/controller/inventory.controller.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/controller/list.controller.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/my-09-03-2023-04-32-beta.sql" dialect="GenericSQL" />
+  </component>
+</project>
